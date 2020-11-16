@@ -1,0 +1,14 @@
+.container{
+    width: 1200px;
+    margin: 0 auto;
+    max-width: 100%;
+}
+
+.nav{
+    text-align: center;
+}
+
+.nav__link{
+    display: inline-block;
+    margin-right: 15px;
+}
